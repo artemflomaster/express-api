@@ -53,7 +53,7 @@ const dataRu = [
     id: 3,
     section: 'GameDev',
     title: 'Четыре столпа ООП',
-    innertext: '<div>В игре можно увидеть четыре столпа Объектно Ориентированного Программирования в прямо смысле и в коде.</div>\n' +
+    innertext: '<div>В игре можно увидеть четыре столпа Объектно Ориентированного Программирования в прямом смысле и в коде.</div>\n' +
       '<div>Шутливая игра-тренировка в рамках отработки приципов ООП на C#</div>\n' +
       '     <a href="https://play.unity.com/mg/other/webgl-builds-119289" target="parent"><img class="border" src="../screens/oop-game.jpg" alt="OOP pillars" /></a>',
     tags: '["Csharp", "Unity", "GameDev"]'
